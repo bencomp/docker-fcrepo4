@@ -20,7 +20,7 @@ This repository adds:
 - Fedora 4.1.0 deployed to http://$DOCKER_HOST:8080/fcrepo/rest
 
 ```console
-$ docker pull bencomp/fcrepo4
-$ docker run -p 8080:8080 bencomp/fcrepo4
+$ docker pull bencomp/docker-fcrepo4
+$ docker run -p 8080:8080 bencomp/docker-fcrepo4
 $ curl http://localhost:8080/fcrepo/rest/
 ```

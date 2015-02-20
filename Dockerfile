@@ -1,4 +1,4 @@
-FROM jolokia/tomcat-8.0
+FROM consol/tomcat-8.0
 
 # Based on Dockerfile by cbeer <chris@cbeer.info>
 MAINTAINER ben@companjen.name
